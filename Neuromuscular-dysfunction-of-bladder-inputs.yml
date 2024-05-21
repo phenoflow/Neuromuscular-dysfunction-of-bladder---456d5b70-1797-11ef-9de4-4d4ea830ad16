@@ -1,0 +1,45 @@
+inputModule1:
+  class: File
+  path: js/read-potential-cases-omop.js
+inputModule2:
+  class: File
+  path: python/functional-neuromuscular-dysfunction-of-bladder---primary.py
+inputModule3:
+  class: File
+  path: python/neuromuscular-dysfunction-of-bladder---primary.py
+inputModule4:
+  class: File
+  path: python/neuromuscular-dysfunction-of-bladder-atony---primary.py
+inputModule5:
+  class: File
+  path: python/neuropathic-neuromuscular-dysfunction-of-bladder---primary.py
+inputModule6:
+  class: File
+  path: python/neuromuscular-dysfunction-of-bladder-instability---primary.py
+inputModule7:
+  class: File
+  path: python/other-neuromuscular-dysfunction-of-bladder---primary.py
+inputModule8:
+  class: File
+  path: python/neuromuscular-dysfunction-of-bladder-classified---primary.py
+inputModule9:
+  class: File
+  path: python/unstable-neuromuscular-dysfunction-of-bladder---primary.py
+inputModule10:
+  class: File
+  path: python/neuromuscular-dysfunction-of-bladder-sphincter---primary.py
+inputModule11:
+  class: File
+  path: python/neuromuscular-dysfunction-of-bladder-unspecified---primary.py
+inputModule12:
+  class: File
+  path: python/neurogenic-neuromuscular-dysfunction-of-bladder---primary.py
+inputModule13:
+  class: File
+  path: python/atonic-neuromuscular-dysfunction-of-bladder---primary.py
+inputModule14:
+  class: File
+  path: python/bladder---primary.py
+inputModule15:
+  class: File
+  path: python/output-cases.py
